@@ -75,6 +75,8 @@ category menu, whatever the admin holds.
   links and a promo on the first department, a link of the menu's own; both
   on the storefront; then removed.
 
+What changed in each release: [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 OSL-3.0 or AFL-3.0, your choice: see `NOTICE.md`.
